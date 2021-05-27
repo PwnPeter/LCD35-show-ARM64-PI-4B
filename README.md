@@ -1,4 +1,4 @@
-A quick guide on how to install a (3.5) waveshare(/clone) or LCD35-show LCD on a Raspberry Pi running 64bit OS (tested with Raspbien and Kali).
+A quick guide on how to install a (3.5) waveshare(/clone) or LCD35-show LCD on a Raspberry Pi running 64bit OS (tested with Raspbian and Kali).
 Guide is written for 3.5 inch screen but could be adapted for any screen.
 
 # Installation
